@@ -6,4 +6,4 @@ I wrote these three files **start.S init.S boot.c** to show how to build a simpl
 
 ![image](https://github.com/Juradira/Exynos-4412-Bootloader/blob/master/md/boot-order.png)
 
-![image](https://github.com/Juradira/Exynos-4412-Bootloader/blob/master/md/memory-mao.png)
+![image](https://github.com/Juradira/Exynos-4412-Bootloader/blob/master/md/memory-map.png)
